@@ -1,0 +1,4 @@
+baseURL = 'https://blog.djinni.sh/'
+languageCode = 'en-us'
+title = 'dj's blog'
+theme = 'hello-friend-ng'
