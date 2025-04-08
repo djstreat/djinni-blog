@@ -58,8 +58,8 @@ paginate = 10
     url = "https://github.com/djstreat"
 
   [[params.social]]
-    name = "github"
-    url = "https://github.com/djstreat"
+    name = "bluesky"
+    url = "https://bsky.app/profile/djinni.sh"
 
 
 
