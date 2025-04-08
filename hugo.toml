@@ -1,7 +1,8 @@
 baseURL = 'https://blog.djinni.sh/'
 languageCode = 'en-us'
-title = 'blog - djinni'
+title = '/home/🗿/'
 theme = 'hello-friend-ng'
+googleAnalytics = "G-WLXC5TLSMB"
 
 
 paginate = 10
@@ -45,15 +46,31 @@ paginate = 10
     subtitle  = "Memes and Dreams"
 
     [languages.en.params.logo]
-      logoText = "dj's blog"
+      logoText = "cd /home/🗿"
       logoHomeLink = "/"
     # or
     #
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/djstreat"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/djstreat"
+
+
+
   # And you can even create generic menu
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "/content/posts"
+    url        = "/posts/"
+
+    
+  [[menu.main]]
+	  identifier = "contact"
+    name       = "Contact"
+    url        = "/contact/"
