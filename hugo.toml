@@ -5,7 +5,7 @@ theme = 'hello-friend-ng'
 googleAnalytics = "G-4LTCH1113T"
 
 
-paginate = 5
+# paginate = 5
 
 [params]
 dateform = "Jan 2, 2006"
@@ -20,10 +20,10 @@ homeSubtitle = "memes, dreams, and the inbetween"
 disableReadOtherPosts = false
 
 # Enable sharing buttons, if you like
-enableSharingButtons = false
+enableSharingButtons = true
 
 # Show a global language switcher in the navigation bar
-enableGlobalLanguageMenu = false
+enableGlobalLanguageMenu = true
 
 # Metadata mostly used in document's head
 description = "Blog for Djinni.sh"

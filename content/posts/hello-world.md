@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2025-04-07T17:25:24-04:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
